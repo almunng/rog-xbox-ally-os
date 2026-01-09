@@ -1,0 +1,14 @@
+remove-packages:
+  - libreoffice*
+  - firefox*
+  - chromium*
+  - kdeconnect*
+  - kmail*
+  - kdepim*
+  - kwrite*
+  - discover*
+  - akonadi*
+  - plasma-discover*
+  - education*
+  - lutris*
+  - waydroid*
