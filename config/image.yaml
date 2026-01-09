@@ -1,0 +1,4 @@
+name: rog-xbox-ally
+description: Atomic console OS for ROG Xbox Ally (AMD Z2 A)
+base-image: ghcr.io/ublue-os/bazzite
+image-version: latest
