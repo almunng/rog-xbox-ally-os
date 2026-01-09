@@ -1,0 +1,38 @@
+packages:
+  - NetworkManager
+  - bluez
+  - pipewire
+  - wireplumber
+  - power-profiles-daemon
+
+  - mesa
+  - mesa-vulkan-drivers
+  - vulkan-loader
+  - wayland
+  - xwayland
+
+  - steam
+  - gamescope
+  - mangohud
+  - gamemode
+
+  - steam-devices
+  - libevdev
+
+  - emulationstation-de
+  - SDL2
+  - SDL2_image
+  - SDL2_mixer
+  - SDL2_ttf
+
+  - plasma-workspace
+  - plasma-wayland-session
+  - kwin
+  - systemsettings
+  - dolphin
+  - konsole
+
+  - sudo
+  - nano
+  - htop
+  - lm_sensors
